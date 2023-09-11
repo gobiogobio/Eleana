@@ -4,6 +4,7 @@
 # OK. dodaje nową klasę przed class Eleana
 
 # Import Standard Python Modules
+#pierwszy_pend kielbia
 import json
 import pathlib
 import subprocess

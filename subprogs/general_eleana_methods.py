@@ -14,11 +14,7 @@ notes = {"content": "",
 class Eleana():
     # Set the most important directories for the program
     interpreter = sys.executable
-    notes = {"content": "",
-             "tags": {"bold": [], "italic": [], "code": [], "normal size": [], "larger size": [], "largest size": [],
-                      "highlight": [], "highlight red": [], "highlight green": [], "highlight black": [],
-                      "text white": [],
-                      "text grey": [], "text blue": [], "text green": [], "text red": []}}
+
     paths = {'program_dir': Path(__file__).resolve().parent,
              'home_dir': Path.home(),
              'tmp_dir': tempfile.gettempdir(),

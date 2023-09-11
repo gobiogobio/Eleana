@@ -3,9 +3,6 @@
 # Hello I am Dashboard
 # OK. dodaje nową klasę przed class Eleana
 
-# pirwszy commit po forku i z obserwacja marcina
-
-
 # Import Standard Python Modules
 import json
 import pathlib

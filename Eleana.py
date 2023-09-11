@@ -2,7 +2,7 @@
 
 # Hello I am Dashboard
 # OK. dodaje nową klasę przed class Eleana
-
+#wzrost pnia
 # Import Standard Python Modules
 import json
 import pathlib
